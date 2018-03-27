@@ -1,6 +1,7 @@
-# QLExpress基本语法
 
 [![Join the chat at https://gitter.im/QLExpress/Lobby](https://badges.gitter.im/QLExpress/Lobby.svg)](https://gitter.im/QLExpress/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# QLExpress基本语法
 
 # 一、背景介绍
 
